@@ -37,6 +37,7 @@
     },
     {
         "id": 5,
+        "author": "Rabiul Islam",
         "picture": "https://www.tekshapers.com/uploads/blog_image/15362384091533896513blog-sco2.jpg",
         "name": "Web Programming ",
         "student": "586",
@@ -46,6 +47,7 @@
     },
     {
         "id": 6,
+        "author": "Rabiul Islam",
         "picture": "https://sgp1.digitaloceanspaces.com/cosmosgroup/news/1071218_Graphic-Design.jpg",
         "name": "Graphic Design ",
         "student": "100",
