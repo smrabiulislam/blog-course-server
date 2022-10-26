@@ -1,6 +1,7 @@
 [
     {
         "id": 1,
+        "author": "Rabiul Islam",
         "picture": "https://lh5.googleusercontent.com/RKDzGLodSnK2sDOWhhxwaT7EzwoqtAg-k9N_y0zoXOBbhjqoiw5jf5EBaX7l4TYQ18fXI7_3mlKcMjPwjoxOQtcE-RD7sZByxjMHmqLZnhLX3YHvNHDx1ZaHYMLjsU3zjjAYTjUF",
         "name": "Personal Computer ",
         "student": "120",
@@ -10,6 +11,7 @@
     },
     {
         "id": 2,
+        "author": "Rabiul Islam",
         "picture": "https://scx2.b-cdn.net/gfx/news/hires/2017/signlanguage.png",
         "name": "Sign Language ",
         "student": "240",
