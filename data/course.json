@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "picture": "shorturl.at/nv267",
+        "picture": "https://lh5.googleusercontent.com/RKDzGLodSnK2sDOWhhxwaT7EzwoqtAg-k9N_y0zoXOBbhjqoiw5jf5EBaX7l4TYQ18fXI7_3mlKcMjPwjoxOQtcE-RD7sZByxjMHmqLZnhLX3YHvNHDx1ZaHYMLjsU3zjjAYTjUF",
         "name": "Personal Computer ",
         "student": "120",
         "price": 150,
@@ -10,7 +10,7 @@
     },
     {
         "id": 2,
-        "picture": "shorturl.at/ghpT7",
+        "picture": "https://scx2.b-cdn.net/gfx/news/hires/2017/signlanguage.png",
         "name": "Sign Language ",
         "student": "240",
         "price": 130,
@@ -19,7 +19,7 @@
     },
     {
         "id": 3,
-        "picture": "shorturl.at/tuHM8",
+        "picture": "https://img.freepik.com/free-vector/academic-excellence-illustration_24877-52355.jpg?w=2000",
         "name": "Academic ",
         "student": "112",
         "price": 190,
@@ -28,7 +28,7 @@
     },
     {
         "id": 4,
-        "picture": "shorturl.at/qvLQS",
+        "picture": "https://economictimes.indiatimes.com/thumb/height-450,width-600,imgsize-136927,msid-66183454/4-innovations-in-the-automobile-world-that-have-changed-the-roads-forever.jpg?from=mdr",
         "name": "Auto Mobile ",
         "student": "300",
         "price": 56,
@@ -37,7 +37,7 @@
     },
     {
         "id": 5,
-        "picture": "shorturl.at/sxHX4",
+        "picture": "https://www.tekshapers.com/uploads/blog_image/15362384091533896513blog-sco2.jpg",
         "name": "Web Programming ",
         "student": "586",
         "price": 350,
@@ -46,7 +46,7 @@
     },
     {
         "id": 6,
-        "picture": "shorturl.at/ciHZ9",
+        "picture": "https://sgp1.digitaloceanspaces.com/cosmosgroup/news/1071218_Graphic-Design.jpg",
         "name": "Graphic Design ",
         "student": "100",
         "price": 152,
