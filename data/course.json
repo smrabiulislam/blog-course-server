@@ -19,6 +19,7 @@
     },
     {
         "id": 3,
+        "author": "Rabiul Islam",
         "picture": "https://img.freepik.com/free-vector/academic-excellence-illustration_24877-52355.jpg?w=2000",
         "name": "Academic ",
         "student": "112",
@@ -28,6 +29,7 @@
     },
     {
         "id": 4,
+        "author": "Rabiul Islam",
         "picture": "https://economictimes.indiatimes.com/thumb/height-450,width-600,imgsize-136927,msid-66183454/4-innovations-in-the-automobile-world-that-have-changed-the-roads-forever.jpg?from=mdr",
         "name": "Auto Mobile ",
         "student": "300",
