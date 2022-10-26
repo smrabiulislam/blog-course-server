@@ -1,0 +1,30 @@
+[
+    {
+        "id": "01",
+        "name": "All News"
+    },
+    {
+        "id": "02",
+        "name": "Personal Computer"
+    },
+    {
+        "id": "03",
+        "name": "Sign Language"
+    },
+    {
+        "id": "04",
+        "name": "Academic"
+    },
+    {
+        "id": "05",
+        "name": "Auto Mobile"
+    },
+    {
+        "id": "06",
+        "name": "Web Programming"
+    },
+    {
+        "id": "07",
+        "name": "Graphic Design"
+    }
+]
